@@ -1,3 +1,3 @@
-# Entendendo Algoritmos
+# Grokking Algorithms
 
-Esse repositório será armazenado os códigos implementados no livro "Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos".
+This repository will store the codes implemented in the book "Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People".
